@@ -3,6 +3,7 @@ import React from 'react';
 import appConfig from '../config.json';
 
 export default function ChatPage() {
+    
     const [mensagem, setMensagem] = React.useState('');
     const [listaDeMensagens, setListaDeMensagens] = React.useState([]);
 
