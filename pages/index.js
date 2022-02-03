@@ -3,6 +3,7 @@ import React from 'react';
 import { useRouter } from 'next/router';
 import appConfig from '../config.json';
 import { Router } from 'next/router';
+import { Component } from 'react/cjs/react.production.min';
 
 function Titulo(props) {
     const Tag = props.tag || 'h1';
