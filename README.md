@@ -37,10 +37,6 @@ npm install
 npm run dev
 ```
 
-## Licença
-
-Este projeto esta sobe a licença [MIT](/LICENSE).
-
 ---
 
 Feito por Thiago Mesquita [Entre em contato!](https://www.linkedin.com/in/thiag0mesquita/)
