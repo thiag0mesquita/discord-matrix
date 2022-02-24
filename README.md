@@ -2,8 +2,6 @@
 
 Projeto feito na Imersão React 4 da @alura com @omariosouto e o @peas
 
-https://discord-matrix-lyart.vercel.app/
-
 ## Tecnologias
 
 As seguintes ferramentas foram usadas na construção do projeto:
