@@ -1,6 +1,5 @@
-# Aluracord - Chat Matrix
+# Chat Matrix
 
-Projeto feito na Imersão React 4 da @alura com @omariosouto e o @peas
 
 ## Tecnologias
 
